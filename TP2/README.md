@@ -56,4 +56,4 @@ C'est tout ! Vous avez maintenant votre application Node.js en cours d'exécutio
 
 ## III- Les vulnérabilités
 
-[Voir les vulnérabilités du site](C:\Users\arthu\Documents\DevOpsB3\DevOps\TP2\vuln.txt)
+[Voir les vulnérabilités du site](https://github.com/Arthurdul/DevOps/blob/main/TP2/vuln.txt)
